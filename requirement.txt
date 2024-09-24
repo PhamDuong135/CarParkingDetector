@@ -1,0 +1,2 @@
+cvzone==1.5.3
+python==3.8
