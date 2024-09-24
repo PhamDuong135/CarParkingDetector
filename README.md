@@ -7,4 +7,6 @@
 ## Run Application
 1. Run file main.py to start application
   ![image](https://github.com/user-attachments/assets/23106a28-9d3e-407a-b71c-643177e1bdeb)
-3. Run the files ParkingSpacePicker.py to change, delete or add new data
+2. Run the files ParkingSpacePicker.py to change, delete or add new data (create new with left click and remove with right click)
+   ![image](https://github.com/user-attachments/assets/a4551007-6a2a-47b4-8018-832c65cbd02a)
+
